@@ -352,6 +352,12 @@ p {
     margin-bottom: 600px;
 
 }
+.contact_me{
+    font-size: 1.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
 
 input[type=text],
 input[type=email],
